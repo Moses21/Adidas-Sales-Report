@@ -16,3 +16,15 @@ The following business questions have been presented to enable the marketing tea
 2. Which states and city should we push more products?
 3. What is the peak month for sales in 2020 and 2021?
 4. Which sales methods are performing well?
+
+## Microsoft Excel skills/concepts demonstrated 
+- Data cleaning
+- Excel formulas (DATE, SUM etc)
+- Cell referencing
+- Pivot tables
+- Slicers
+- Data visualization
+- Dashboard buiding
+
+## Data Cleaning
+- The dataset was imported into Microsoft Excel using the **Get data** option in the data tab. Here is how I cleaned the data.
