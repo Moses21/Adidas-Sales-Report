@@ -1,4 +1,4 @@
-# Adidas Products Sales Analysis 
+# Adidas Store Sales Analysis 
 ![](adidas-store.png)
 
 ## Introduction
