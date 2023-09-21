@@ -50,3 +50,9 @@ The products that generated the highest revenue are Street Footwear and Apparel.
 
 From the result above, we see that the Street Footwear contributed amounting to $44,882,332 as a revenue and followed by Apparel
 
+### Which states and city should we push more products?
+
+### What is the peak month for sales in 2020 and 2021?
+
+### Which sales methods are performing well?
+
