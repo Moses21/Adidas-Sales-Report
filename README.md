@@ -68,6 +68,7 @@ A large number of customers that purchases products from Adidas Store uses Onlin
 ![](salesbycity.png)
 
 ## Dashboard Overview
+The project dashboard contains a Microsoft Excel worksheet, pivot tables overview of the analysis. It was created to provide insights and dynamic answers to business questions posed during the analysis
 
 ![](dashboard.png)
 
