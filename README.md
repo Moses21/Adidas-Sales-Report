@@ -28,3 +28,13 @@ The following business questions have been presented to enable the marketing tea
 
 ## Data Cleaning
 - The dataset was imported into Microsoft Excel using the **Get data** option in the data tab. Here is how I cleaned the data.
+- Column datatypes were validated appropriately  – E.g. revenue column was formatted to have currency format.
+- To change the Invoice Date column, Invoice Date which was on in number data type, to the ‘date’ data type, a new column was created, and the formula below was used to fill the new 
+  column with the data that can be changed to the date data type.
+  
+  ```html
+  =DATE(YEAR(C2), MONTH(C2), DAY(C2))
+  ```
+- The cell reference ID, `C2` contains the Invoice Date record in the original column. The formula converts the number in cell C2 to a date format and column `Invoice_Date` was created. 
+  The rest of the rows were auto-filled by Excel accordingly.
+
