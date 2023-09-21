@@ -53,7 +53,7 @@ From the result above, we see that the Street Footwear contributed amounting to 
 ### Which region and city should we push more products?
 West and Northeast have the highest, recording a total of `$61,514,424` while New York, Charleston and San Francisco city have the highest revenues of a total of `$15,509,652`
 
-  |  |  |
+  | Slaes by Region | Sales by City |
   | ---------------- | -------------- |
   | ![](region.png) | ![](salesbycity.png) |
 
