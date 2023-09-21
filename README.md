@@ -38,3 +38,7 @@ The following business questions have been presented to enable the marketing tea
 - The cell reference ID, `C2` contains the Invoice Date record in the original column. The formula converts the number in cell C2 to a date format and column `Invoice_Date` was created. 
   The rest of the rows were auto-filled by Excel accordingly.
 
+  | Unformatted Date | Formatted Date |
+  | ---------------- | -------------- |
+  | ![](date-type.png) | ![](date-type.png) |
+
