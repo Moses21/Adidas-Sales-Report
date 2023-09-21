@@ -51,6 +51,7 @@ The products that generated the highest revenue are Street Footwear and Apparel.
 From the result above, we see that the Street Footwear contributed amounting to $44,882,332 as a revenue and followed by Apparel
 
 ### Which states and city should we push more products?
+West and Northeast have the highest, recording a total of `$61,514,424` while New York, Charleston and San Francisco city have the highest revenues of a total of `$15,509,652`
 
 ### What is the peak month for sales in 2020 and 2021?
 
