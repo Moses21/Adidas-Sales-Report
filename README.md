@@ -40,5 +40,5 @@ The following business questions have been presented to enable the marketing tea
 
   | Unformatted Date | Formatted Date |
   | ---------------- | -------------- |
-  | ![](date-type.png) | ![](date-type-2.png) |
+  | ![](date-type.png) | ![](data-type-2.png) |
 
