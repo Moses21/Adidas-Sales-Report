@@ -42,3 +42,11 @@ The following business questions have been presented to enable the marketing tea
   | ---------------- | -------------- |
   | ![](date-type.png) | ![](data-type-2.png) |
 
+## Data findings and visualizations 
+### Which products contribute more to the revenue?
+The products that generated the highest revenue are Street Footwear and Apparel.
+
+![](salesbyproduct.png)
+
+From the result above, we see that the Street Footwear contributed amounting to $44,882,332 as a revenue and followed by Apparel
+
