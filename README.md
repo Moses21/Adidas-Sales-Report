@@ -58,7 +58,7 @@ West and Northeast have the highest, recording a total of `$61,514,424` while Ne
   | ![](region.png) | ![](salesbycity.png) |
 
 ### What is the peak month for sales in 2020 and 2021?
-JULY is a peak month for 2020 and 2021 with **12,550,419**.
+JULY is a peak month for 2020 and 2021 with **$12,550,419**.
 
 ![](region.png)
 
