@@ -67,3 +67,7 @@ A large number of customers that purchases products from Adidas Store uses Onlin
 
 ![](salesbycity.png)
 
+## Dashboard Overview
+
+![](dashboard.png)
+
